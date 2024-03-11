@@ -1,5 +1,3 @@
-Certainly! Here's the updated README template with your name and email:
-
 ```markdown
 # My Multi-Project Repository
 
