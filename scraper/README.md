@@ -1,5 +1,4 @@
-```markdown
-# WebNovel Scraper
+]# WebNovel Scraper
 
 ## Introduction
 WebNovel Scraper is a Python script for scraping and saving web novel content from Scribble Hub. It uses Selenium for web automation and BeautifulSoup for HTML parsing.
