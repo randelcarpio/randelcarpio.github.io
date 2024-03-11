@@ -1,4 +1,4 @@
-```markdown
+
 # My Multi-Project Repository
 
 Welcome to my multi-project repository! This repository serves as a central hub for various projects I've worked on. Each project is contained in its respective directory within this repository.
