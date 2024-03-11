@@ -1,5 +1,3 @@
-Certainly! Here's the updated README file with your name and email, and considering the file name as "saveweb.py":
-
 ```markdown
 # WebNovel Scraper
 
@@ -63,6 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 John Randel Carpio
 Contact: carpio.johnrandel@gmail.com
-```
-
-Feel free to modify any other details in the README to better suit your project. If you have any further requests or questions, feel free to let me know!
