@@ -1,0 +1,5 @@
+openmeteo_requests==0.1.0
+requests_cache==0.7.4
+pandas==1.4.0
+matplotlib==3.4.3
+retry_requests==1.2.0
